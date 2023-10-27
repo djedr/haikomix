@@ -2,6 +2,12 @@
 <img src="logo.gif" alt="logo" height="160" />
 </p>
 
+# nightmare
+
+wake up feeling odd  //  front door open, so close it  //  too late, it's inside
+
+<img src="cooking.gif" alt="nightmare  ::  wake up feeling odd  //  front door open, so close it  //  too late, it's inside" title="koszmar  ::  wstał z dziwnym lękiem  //  front-drzwi w oścież, więc zamknął  //  za późno, weszło" />
+
 # cooking
 
 a hot frying pan  //  on it oil and sliced garlic  //  smell of the divine

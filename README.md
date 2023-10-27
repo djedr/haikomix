@@ -6,7 +6,7 @@
 
 wake up feeling odd  //  front door open, so close it  //  too late, it's inside
 
-<img src="cooking.gif" alt="nightmare  ::  wake up feeling odd  //  front door open, so close it  //  too late, it's inside" title="koszmar  ::  wstał z dziwnym lękiem  //  front-drzwi w oścież, więc zamknął  //  za późno, weszło" />
+<img src="nightmare.gif" alt="nightmare  ::  wake up feeling odd  //  front door open, so close it  //  too late, it's inside" title="koszmar  ::  wstał z dziwnym lękiem  //  front-drzwi w oścież, więc zamknął  //  za późno, weszło" />
 
 # cooking
 

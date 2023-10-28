@@ -2,6 +2,12 @@
 <img src="logo.gif" alt="logo" height="160" />
 </p>
 
+# life
+
+dirty dishes // how to wash them? // one at a time
+
+<img src="life.gif" alt="life :: dirty dishes // how to wash them? // one at a time" title="życie :: brudne naczynia // jak je umyć? // pojedynczo" />
+
 # nightmare
 
 wake up feeling odd  //  front door open, so close it  //  too late, it's inside

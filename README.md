@@ -2,6 +2,12 @@
 <img src="logo.gif" alt="logo" height="160" />
 </p>
 
+# fox
+
+on an evening walk // I saw a fox from afar // he saw a human
+
+<img src="fox.webp" alt="fox :: on an evening walk // I saw a fox from afar // he saw a human" title="lis :: na wieczornym spacerze // widziałem z daleka lisa // on widział człowieka" />
+
 # life
 
 dirty dishes // how to wash them? // one at a time

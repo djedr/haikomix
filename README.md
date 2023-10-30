@@ -2,6 +2,12 @@
 <img src="logo.gif" alt="logo" height="160" />
 </p>
 
+# dainties
+
+dinner is ready // the revelers have sat down // om nom nom nom nom
+
+<img src="dainties.gif" alt="dainties :: dinner is ready // the revelers have sat down // om nom nom nom nom" title="frykasy :: obiad gotowy // biesiadnicy zasiedli // am mniam mniam mniam mniam" />
+
 # fox
 
 on an evening walk // I saw a fox from afar // he saw a human

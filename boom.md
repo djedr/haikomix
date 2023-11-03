@@ -5,7 +5,7 @@
 [oldest](drifting-off.md) | 
 [previous](raven.md) | 
 [archive](ARCHIVE.md) | 
-next | <!-- [next](boom.md) |  -->
+[next](knock-knock.md) | 
 [newest](README.md)
 
 # boom

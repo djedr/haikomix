@@ -1,5 +1,5 @@
 <p align="center">
-<img src="logo.gif" alt="logo" height="160" />
+<a href="/"><img src="logo.gif" alt="logo" height="160" /></a>
 </p>
 
 [oldest](drifting-off.md) | 

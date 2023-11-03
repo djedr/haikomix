@@ -2,7 +2,11 @@
 <img src="logo.gif" alt="logo" height="160" />
 </p>
 
-[previous](dainties.md) | [next](raven.md)
+[oldest](drifting-off.md) | 
+[previous](dainties.md) | 
+[archive](ARCHIVE.md) | 
+[next](raven.md) | 
+[newest](README.md)
 
 # ice and wind
 

@@ -2,7 +2,11 @@
 <img src="logo.gif" alt="logo" height="160" />
 </p>
 
-[previous](nightmare.md) | [next](fox.md)
+[oldest](drifting-off.md) | 
+[previous](nightmare.md) | 
+[archive](ARCHIVE.md) | 
+[next](fox.md) | 
+[newest](README.md)
 
 # life
 

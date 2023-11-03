@@ -2,7 +2,11 @@
 <img src="logo.gif" alt="logo" height="160" />
 </p>
 
-[previous](drifting-off.md) | [next](fog.md)
+[oldest](drifting-off.md) | 
+[previous](drifting-off.md) | 
+[archive](ARCHIVE.md) | 
+[next](fog.md) | 
+[newest](README.md)
 
 # Mr. T
 

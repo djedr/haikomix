@@ -2,7 +2,11 @@
 <img src="logo.gif" alt="logo" height="160" />
 </p>
 
-[next](mr-t.md)
+[oldest](drifting-off.md) | 
+previous | 
+[archive](ARCHIVE.md) | 
+[next](mr-t.md) | 
+[newest](README.md)
 
 # drifting off
 

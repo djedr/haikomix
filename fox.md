@@ -2,7 +2,11 @@
 <img src="logo.gif" alt="logo" height="160" />
 </p>
 
-[previous](life.md) | [next](dainties.md)
+[oldest](drifting-off.md) | 
+[previous](life.md) | 
+[archive](ARCHIVE.md) | 
+[next](dainties.md) | 
+[newest](README.md)
 
 # fox
 

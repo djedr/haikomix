@@ -2,7 +2,11 @@
 <img src="logo.gif" alt="logo" height="160" />
 </p>
 
-[previous](mr-t.md) | [next](cooking.md)
+[oldest](drifting-off.md) | 
+[previous](mr-t.md) | 
+[archive](ARCHIVE.md) | 
+[next](cooking.md) | 
+[newest](README.md)
 
 # fog
 

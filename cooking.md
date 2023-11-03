@@ -2,7 +2,11 @@
 <img src="logo.gif" alt="logo" height="160" />
 </p>
 
-[previous](fog.md) | [next](nightmare.md)
+[oldest](drifting-off.md) | 
+[previous](fog.md) | 
+[archive](ARCHIVE.md) | 
+[next](nightmare.md) | 
+[newest](README.md)
 
 # cooking
 

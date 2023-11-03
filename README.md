@@ -2,6 +2,12 @@
 <img src="logo.gif" alt="logo" height="160" />
 </p>
 
+# boom
+
+cauldron // overheated // boom
+
+<img src="boom.gif" alt="boom :: cauldron // overheated // boom" title="kocioł // przegrzany // bum" />
+
 # raven
 
 concrete sidewalk // hit hard by a walnut // which brat threw that?!

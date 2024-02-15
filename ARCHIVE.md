@@ -19,3 +19,7 @@
     * [fog](fog.md)
     * [Mr. T](mr-t.md)
     * [drifting off](drifting-off.md)
+
+***
+
+Bonus: [more silly haikus and stuff](https://github.com/djedr/writing/) | [another komix](https://djedr.github.io/haker/)
